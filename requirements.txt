@@ -3,4 +3,3 @@ Flask==2.2.5
 requests
 urllib3==1.26.18
 six==1.16.0
-imghdr-py
